@@ -4,15 +4,14 @@ ini_set('display_startup_errors', 0);
 error_reporting(E_ALL);
 ?>
 <!DOCTYPE html>
-<html lang='en'>
+<html lang='ru'>
 
 <head>
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
     <link rel="icon" href="https://pamrog.by/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="https://pamrog.by/favicon.ico" type="image/x-icon">
-    <title>РОГАЧЕВ ПАМЯТНИКИ <М>
-    </title>
+    <title>РОГАЧЕВ ПАМЯТНИКИ <М></title>
     <meta name="description" content="Изготовление любых памятников. Полное благоустройство могил в Рогачеве, Жлобине, Светлогорске.">
     <meta name="keywords" content="Профессиональное оформление памятников. Индивидуальный подход к каждому клиенту.">
     <link rel='stylesheet' href='style.css'>
@@ -102,10 +101,12 @@ error_reporting(E_ALL);
         <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="POST" id="lk">
             <h3>Введите имя пользователя и пароль</h3>
             <h5>Введите имя </h5>
-            <h5> <input type="text" id="useradm" name="useradm"> </h5>
+            <h5> <input type="text" id="useradm" name="useradm" value=""> </h5>
             <h5>Введите пароль </h5>
-            <h5> <input type="password" id="paswadm" name="paswadm"> </h5>
+            <h5> <input type="password" id="paswadm" name="paswadm" value=""> </h5>
             <input type="submit" class="b1" value="Войти">
+            <!-- <button class="b1"  onclick="clearInput()">Очистить поля ввода пользователя и пароля</button> -->
+            <button class="b1" type="reset">Очистить поля ввода</button>
         </form>
         <?php
         if (!empty($_POST['useradm'])) {

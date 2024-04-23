@@ -107,4 +107,10 @@ let btnadmin = document.querySelector("#btnAdmin");
       window.location.href = "admin.php";
   }
 
+//Очистить поля входа в личный кабинет admina
+
+/* function clearInput() {
+  document.getElementById("useradm").value="";
+  doсument.getElementById("paswadm").value="";
+} */
 

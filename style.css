@@ -1073,6 +1073,7 @@ input,
 .b1 {
 	width: 300px;
 	margin-top: 10px;
+	padding: 5px;
 }
 #useradm,
 #paswadm {

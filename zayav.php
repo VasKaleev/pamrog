@@ -4,15 +4,14 @@ ini_set('display_startup_errors', 0);
 error_reporting(E_ALL);
 ?>
 <!DOCTYPE html>
-<html lang='en'>
+<html lang='ru'>
 
 <head>
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
     <link rel="icon" href="https://pamrog.by/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="https://pamrog.by/favicon.ico" type="image/x-icon">
-    <title>РОГАЧЕВ ПАМЯТНИКИ <М>
-    </title>
+    <title>РОГАЧЕВ ПАМЯТНИКИ <М></title>
     <meta name="description" content="Изготовление любых памятников. Полное благоустройство могил в Рогачеве, Жлобине, Светлогорске.">
     <meta name="keywords" content="Профессиональное оформление памятников. Индивидуальный подход к каждому клиенту.">
     <link rel='stylesheet' href='style.css'>
