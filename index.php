@@ -105,7 +105,7 @@ error_reporting(E_ALL);
     <section class='main'>
         <div class='container'>
             <h1 class='main-title'>Изготовление любых памятников. Полное благоустройство могил. </h1>
-            <h1 class='main-title'> Профессиональное оформление памятников. Индивидуальный подход к каждому клиенту.</h1>
+            <h2 class='main-title-secord'> Профессиональное оформление памятников. Индивидуальный подход к каждому клиенту.</h2>
             <!-- Tab links -->
             <div class='tab'>
                 <button class='tablinks' onclick="openTab(event, 'Raboty')">Наши работы</button>

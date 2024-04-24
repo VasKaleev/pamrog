@@ -98,8 +98,8 @@ error_reporting(E_ALL);
     </header>
     <section>
         <h1 id="zag_comment">Записаться на бесплатную консультацию.</h1>
-        <h2 id="zag_comment">Заполните форму и наш специалист свяжется с Вами</h2>
-        <h2 id="zag_comment">для проведения консультации.</h2>
+        <h4 id="zag_comment">Заполните форму и наш специалист свяжется с Вами</h4>
+        <h4 id="zag_comment">для проведения консультации.</h4>
         <form class='comment' action='zayav.php' method='post'>
             <input class='form-control' type='text' name='fio' placeholder='Ваше имя...' required pattern='[A-Za-zА-Яа-я .]*'>
             <input class='form-control' type='text' name='tel' placeholder='Ваш номер телефона...' required>

@@ -170,10 +170,29 @@ li {
 	margin-bottom: 5px;
 	text-align: center;
 	animation-name: mymov;
-	animation-duration: 5s;
+	animation-duration: 6s;
+}
+.main-title-secord {
+	color: #2F2E41;
+	font-size: 18px;
+	font-weight: 600;
+	text-transform: uppercase;
+	margin-bottom: 5px;
+	text-align: center;
+	animation-name: mymovs;
+	animation-duration: 6s;
 }
 
 @keyframes mymov {
+	from {
+		opacity: 0.2;
+	}
+
+	to {
+		opacity: 1;
+	}
+}
+@keyframes mymovs {
 	from {
 		opacity: 0.2;
 	}
