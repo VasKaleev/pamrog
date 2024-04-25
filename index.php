@@ -232,6 +232,9 @@ error_reporting(E_ALL);
                                 <li class='item'>
                                     <span class='footer-adress'>мини-рынок 'Восточный' пав 125.</span>
                                 </li>
+                                <li class='item'>
+                                    <span class='footer-adress'>УНП 490435350, ИП Щепов Максим Викторович</span>
+                                </li>
                             </ul>
                         </address>
                         <div id='kontakt'>
