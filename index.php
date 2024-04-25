@@ -5,7 +5,6 @@ error_reporting(E_ALL);
 ?>
 <!DOCTYPE html>
 <html lang='ru'>
-
 <head>
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
@@ -55,7 +54,6 @@ error_reporting(E_ALL);
     </script>
     <!-- Google tag (gtag.js) -->
 </head>
-
 <body>
     <header>
         <div class='container'>
@@ -90,7 +88,6 @@ error_reporting(E_ALL);
                 </div>
             </div>
         </div>
-
     </header>
     <div class='b'>
         <div class='baner'>
@@ -161,11 +158,9 @@ error_reporting(E_ALL);
                                 <img class='img' loading="lazy" src='./assets/imgodin/E-64.png' loading="lazy" alt='Памятник E-64' />
                                 <div class='title'>Памятник E-64</div>
                                 <div class='razm'>Размер: любой</div>
-
                                 <img class='img1' id="v1" src='' loading="lazy" alt='' />
                                 <img class='img2' id="v2" src='' loading="lazy" alt='' />
                                 <img class='img3' id="v3" src='' loading="lazy" alt='' />
-
                                 <button class='btn1' type='submit'>ПОДРОБНЕЕ</button>
                                 <hr>
                                 <div class='catalog-item__footer'>
@@ -326,5 +321,4 @@ error_reporting(E_ALL);
     <script defer type='module' src='./js/pamdvoin.js'></script>
     <script defer src='./js/script.js'></script>
 </body>
-
 </html>

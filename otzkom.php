@@ -5,7 +5,6 @@ error_reporting(E_ALL);
 ?>
 <!DOCTYPE html>
 <html lang='ru'>
-
 <head>
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
@@ -54,7 +53,6 @@ error_reporting(E_ALL);
         gtag('config', 'G-QVWDMXC0QS');
     </script>
 </head>
-
 <body>
     <header>
         <div class='container'>
@@ -178,9 +176,7 @@ error_reporting(E_ALL);
         mysqli_free_result($result);
         mysqli_close($db);
         echo "<script>window.location.href = ''></script>";
-
         ?>
-
     </section>
     <footer>
         <img src='./assets/images/up.svg' alt='up' class='pageup' title='Рageup'>
@@ -196,5 +192,4 @@ error_reporting(E_ALL);
     <script defer type='module' src='./js/scrvivg.js'></script>
     <script defer src='./js/script.js'></script>
 </body>
-
 </html>

@@ -5,7 +5,6 @@ error_reporting(E_ALL);
 ?>
 <!DOCTYPE html>
 <html lang='ru'>
-
 <head>
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
@@ -30,7 +29,6 @@ error_reporting(E_ALL);
             k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
         })
         (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
         ym(97104202, "init", {
             clickmap: true,
             trackLinks: true,
@@ -54,7 +52,6 @@ error_reporting(E_ALL);
         gtag('config', 'G-QVWDMXC0QS');
     </script>
 </head>
-
 <body>
     <header>
         <div class='container'>
@@ -177,5 +174,4 @@ error_reporting(E_ALL);
     <script defer type='module' src='./js/scrvivg.js'></script>
     <script defer src='./js/script.js'></script>
 </body>
-
 </html>
