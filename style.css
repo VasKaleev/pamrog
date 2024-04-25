@@ -1337,7 +1337,7 @@ p#ot {
 	padding: 0.4rem;
 	width: 270px;
 	border-radius: 5px;
-	filter: drop-shadow(0 0 5px rgba(232, 227, 227, 0.5));
+	filter: drop-shadow(0 0 5px rgba(110, 105, 105, 0.5));
 }
 
 .table {

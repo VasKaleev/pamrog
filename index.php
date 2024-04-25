@@ -11,9 +11,9 @@ error_reporting(E_ALL);
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
     <link rel="icon" href="https://pamrog.by/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="https://pamrog.by/favicon.ico" type="image/x-icon">
-    <title>РОГАЧЕВ ПАМЯТНИКИ <М></title>
-    <meta name="description" content="Изготовление любых памятников. Полное благоустройство могил в Рогачеве, Жлобине, Светлогорске.">
-    <meta name="keywords" content="Профессиональное оформление памятников. Индивидуальный подход к каждому клиенту.">
+    <title>Изготовление любых памятников в Рогачеве. Благоустройство могил.</title>
+    <meta name="description" content="Изготовление любых памятников в Рогачеве, Жлобине, Светлогорске. Полное благоустройство могил.">
+    <meta name="keywords" content="Профессиональное оформление памятников в Рогачеве, Жлобине, Светлогорске. Индивидуальный подход к каждому клиенту.">
     <link rel='stylesheet' href='style.css'>
     <!-- Yandex.Metrika counter -->
     <script type="text/javascript">
@@ -226,7 +226,7 @@ error_reporting(E_ALL);
                         <address class='adress-footer'>
                             <ul class='footer-list'>
                                 <li class='item'>
-                                    <div><a class='footer-contacts' href=”tel:+375296218749”>Онлайн консультация: +375 ( 29 ) 621-87-49</a></div>
+                                    <div><a class='footer-contacts' href=”tel:+375296218749”>Онлайн консультация: +375 (29) 621-87-49</a></div>
                                 </li>
                                 <li class='item'>
                                     <span class='footer-adress'>instagram: rogachev_pamyatniki</span>
