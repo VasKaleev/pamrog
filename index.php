@@ -37,7 +37,7 @@ error_reporting(E_ALL);
         });
     </script>
     <noscript>
-        <div><img src="https://mc.yandex.ru/watch/97104202" style="position:absolute; left:-9999px;" alt="" /></div>
+        <div><img src="https://mc.yandex.ru/watch/97104202" style="position:absolute; left:-9999px;" alt="" ></div>
     </noscript>
     <!-- /Yandex.Metrika counter -->
     <!-- Google tag (gtag.js) -->
@@ -61,13 +61,13 @@ error_reporting(E_ALL);
                 <a href='index.php'><img class='logo-img' src='./assets/images/logo1.png' title='Магазин памятники в Рогачеве' alt='Магазин памятники в Рогачеве'></a>
                 <div class='invk'>
                     <a href='https://www.instagram.com/rogachev_pamyatniki/' class='in'>
-                        <img src='./assets/images/in.svg' title='Магазин памятники в Рогачеве в инстаграмм' alt='Интернет магазин Sport Ground в in' />
+                        <img src='./assets/images/in.svg' title='Магазин памятники в Рогачеве в инстаграмм' alt='Интернет магазин Sport Ground в in'>
                     </a>
                     <a href='viber://chat?number=%2B375296218749' class='viber'>
-                        <img src='./assets/images/viber.svg' title='Магазин памятники в Рогачеве в вайбере' alt='Интернет магазин Sport Ground в vk' />
+                        <img src='./assets/images/viber.svg' title='Магазин памятники в Рогачеве в вайбере' alt='Интернет магазин Sport Ground в vk'>
                     </a>
                     <a href='https://t.me/pam_max' class='tg'>
-                        <img src='./assets/images/tg.svg' title='Магазин памятники в Рогачеве в телеграмм' alt='Написать в телеграмм' />
+                        <img src='./assets/images/tg.svg' title='Магазин памятники в Рогачеве в телеграмм' alt='Написать в телеграмм'>
                     </a>
                 </div>
                 <div class='cart-super-Btn'>
@@ -75,7 +75,7 @@ error_reporting(E_ALL);
                     <div class='header-adres'>
                         <p>г. Рогачёв, ул. Богатырева, </p>
                         <p>завод 'Диапроектор' мини-рынок</p>
-                        <p> 'Восточный' пав 125.</p>
+                        <p> 'Восточный' пав. 125.</p>
                     </div>
                     <div><img class='header-zn' src='./assets/images/clock.png' alt=''></div>
                     <div class='header-adres'>
@@ -120,12 +120,12 @@ error_reporting(E_ALL);
                     <div class='cards-wrapper'>
                         <div class='card'>
                             <div class='card1'>
-                                <img class='img' src='./assets/imgraboty/sv1.png' loading="lazy" alt='' />
+                                <img class='img' src='./assets/imgraboty/sv1.png' loading="lazy" alt=''>
                                 <div class='title'>Мемориал из красного гранита</div>
                                 <div class='razm'>Размер: любой</div>
-                                <img class='img1' src='./assets/imgraboty/sv2.png' loading="lazy" alt='' />
-                                <img class='img2' src='./assets/imgraboty/sv1.png' loading="lazy" alt='' />
-                                <img class='img3' src='./assets/imgraboty/sv2.png' loading="lazy" alt='' />
+                                <img class='img1' src='./assets/imgraboty/sv2.png' loading="lazy" alt=''>
+                                <img class='img2' src='./assets/imgraboty/sv1.png' loading="lazy" alt=''>
+                                <img class='img3' src='./assets/imgraboty/sv2.png' loading="lazy" alt=''>
                                 <button class='btn1' type='submit'>ПОДРОБНЕЕ</button>
                                 <hr>
                                 <div class='catalog-item__footer'>
@@ -155,12 +155,12 @@ error_reporting(E_ALL);
                     <div class='cards-wrapperg'>
                         <div class='cardg'>
                             <div class='card1g'>
-                                <img class='img' loading="lazy" src='./assets/imgodin/E-64.png' loading="lazy" alt='Памятник E-64' />
+                                <img class='img' loading="lazy" src='./assets/imgodin/E-64.png' loading="lazy" alt='Памятник E-64'>
                                 <div class='title'>Памятник E-64</div>
                                 <div class='razm'>Размер: любой</div>
-                                <img class='img1' id="v1" src='' loading="lazy" alt='' />
-                                <img class='img2' id="v2" src='' loading="lazy" alt='' />
-                                <img class='img3' id="v3" src='' loading="lazy" alt='' />
+                                <img class='img1' id="v1" src='' loading="lazy" alt=''>
+                                <img class='img2' id="v2" src='' loading="lazy" alt=''>
+                                <img class='img3' id="v3" src='' loading="lazy" alt=''>
                                 <button class='btn1' type='submit'>ПОДРОБНЕЕ</button>
                                 <hr>
                                 <div class='catalog-item__footer'>
@@ -173,7 +173,7 @@ error_reporting(E_ALL);
                                 <p class='aler'></p>
                             </div>
                             <div class='card2'>
-                                <p class='catalog-item__list'>Материал происхождения: гранит(Карелия, Россия). Под заказ памятник может быть выполнен из цветного гранита.
+                                <p class='catalog-item__list'>Материал происхождения: гранит (Карелия, Россия). Под заказ памятник может быть выполнен из цветного гранита.
                                 </p>
                                 <button class='btn2' type='submit'>назад</button>
                             </div>
@@ -187,12 +187,12 @@ error_reporting(E_ALL);
                     <div class='cards-wrapperm'>
                         <div class='cardm'>
                             <div class='card1m'>
-                                <img class='img' src='./assets/imgdvoyn/B-11.png' loading="lazy" alt='' />
+                                <img class='img' src='./assets/imgdvoyn/B-11.png' loading="lazy" alt=''>
                                 <div class='title'>Памятник B-11</div>
                                 <div class='razm'>Размер: любой</div>
-                                <img class='img1' id="v1d" src='' loading="lazy" alt='' />
-                                <img class='img2' id="v2d" src='' loading="lazy" alt='' />
-                                <img class='img3' id="v3d" src='' loading="lazy" alt='' />
+                                <img class='img1' id="v1d" src='' loading="lazy" alt=''>
+                                <img class='img2' id="v2d" src='' loading="lazy" alt=''>
+                                <img class='img3' id="v3d" src='' loading="lazy" alt=''>
                                 <button class='btn1' type='submit'>ПОДРОБНЕЕ</button>
                                 <hr>
                                 <div class='catalog-item__footer'>
@@ -230,7 +230,7 @@ error_reporting(E_ALL);
                                     <span class='footer-adress'>г. Рогачёв, ул. Богатырева, завод 'Диапроектор'</span>
                                 </li>
                                 <li class='item'>
-                                    <span class='footer-adress'>мини-рынок 'Восточный' пав 125.</span>
+                                    <span class='footer-adress'>мини-рынок 'Восточный' пав. 125.</span>
                                 </li>
                                 <li class='item'>
                                     <span class='footer-adress'>УНП 490435350, ИП Щепов Максим Викторович</span>
@@ -246,8 +246,8 @@ error_reporting(E_ALL);
                 <div id='Otz' class='tabcontent'>
                     <h3>Отзывы и комментарии.</h3>
                     <form class='comment' action='index.php' method='post'>
-                        <input class='form-control' type='text' name='fio' placeholder='Укажите ФИО' required pattern='[A-Za-zА-Яа-я .]*'>
-                        <input class='form-control' type='text' name='tel' placeholder='Укажите номер телефона(Не публикуется)' required>
+                        <input class='form-control' type='text' name='fio' placeholder='Укажите Фамилию Имя Отчество' required pattern='[A-Za-zА-Яа-я .]*'>
+                        <input class='form-control' type='text' name='tel' placeholder='Укажите номер телефона (Не публикуется)' required>
                         <textarea class='form-control' rows='3' cols='10' name='comment' placeholder='Напишите ваше сообщение сюда...'></textarea>
                         <div class='g-recaptcha' data-sitekey='6Lcx2rYpAAAAADt6RH1YCMjbQXGv59HXYa_ZsSe1'></div>
                         <input type='submit' value='Отправить' class='btn btn-primary'>

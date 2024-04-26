@@ -36,7 +36,7 @@ error_reporting(E_ALL);
         });
     </script>
     <noscript>
-        <div><img src="https://mc.yandex.ru/watch/97104202" style="position:absolute; left:-9999px;" alt="" /></div>
+        <div><img src="https://mc.yandex.ru/watch/97104202" style="position:absolute; left:-9999px;" alt=""></div>
     </noscript>
     <!-- /Yandex.Metrika counter -->
     <!-- Google tag (gtag.js) -->
@@ -59,13 +59,13 @@ error_reporting(E_ALL);
                 <a href='index.php'><img class='logo-img' src='./assets/images/logo1.png' title='Магазин памятники в Рогачеве' alt='Магазин памятники в Рогачеве'></a>
                 <div class='invk'>
                     <a href='https://www.instagram.com/rogachev_pamyatniki/' class='in'>
-                        <img src='./assets/images/in.svg' title='Магазин памятники в Рогачеве в инстаграмм' alt='Интернет магазин Sport Ground в in' />
+                        <img src='./assets/images/in.svg' title='Магазин памятники в Рогачеве в инстаграмм' alt='Интернет магазин Sport Ground в in'>
                     </a>
                     <a href='viber://chat?number=%2B375296218749' class='viber'>
-                        <img src='./assets/images/viber.svg' title='Магазин памятники в Рогачеве в вайбере' alt='Интернет магазин Sport Ground в vk' />
+                        <img src='./assets/images/viber.svg' title='Магазин памятники в Рогачеве в вайбере' alt='Интернет магазин Sport Ground в vk'>
                     </a>
                     <a href='https://t.me/pam_max' class='tg'>
-                        <img src='./assets/images/tg.svg' title='Магазин памятники в Рогачеве в телеграмм' alt='Написать в телеграмм' />
+                        <img src='./assets/images/tg.svg' title='Магазин памятники в Рогачеве в телеграмм' alt='Написать в телеграмм'>
                     </a>
                 </div>
                 <div class='cart-super-Btn'>

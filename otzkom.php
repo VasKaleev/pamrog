@@ -37,7 +37,7 @@ error_reporting(E_ALL);
         });
     </script>
     <noscript>
-        <div><img src="https://mc.yandex.ru/watch/97104202" style="position:absolute; left:-9999px;" alt="" /></div>
+        <div><img src="https://mc.yandex.ru/watch/97104202" style="position:absolute; left:-9999px;" alt=""></div>
     </noscript>
     <!-- /Yandex.Metrika counter -->
     <!-- Google tag (gtag.js) -->
@@ -60,13 +60,13 @@ error_reporting(E_ALL);
                 <a href='index.php'><img class='logo-img' src='./assets/images/logo1.png' title='Магазин памятники в Рогачеве' alt='Магазин памятники в Рогачеве'></a>
                 <div class='invk'>
                     <a href='https://www.instagram.com/rogachev_pamyatniki/' class='in'>
-                        <img src='./assets/images/in.svg' title='Магазин памятники в Рогачеве в инстаграмм' alt='Интернет магазин Sport Ground в in' />
+                        <img src='./assets/images/in.svg' title='Магазин памятники в Рогачеве в инстаграмм' alt='Интернет магазин Sport Ground в in'>
                     </a>
                     <a href='viber://chat?number=%2B375296218749' class='viber'>
-                        <img src='./assets/images/viber.svg' title='Магазин памятники в Рогачеве в вайбере' alt='Интернет магазин Sport Ground в vk' />
+                        <img src='./assets/images/viber.svg' title='Магазин памятники в Рогачеве в вайбере' alt='Интернет магазин Sport Ground в vk'>
                     </a>
                     <a href='https://t.me/pam_max' class='tg'>
-                        <img src='./assets/images/tg.svg' title='Магазин памятники в Рогачеве в телеграмм' alt='Написать в телеграмм' />
+                        <img src='./assets/images/tg.svg' title='Магазин памятники в Рогачеве в телеграмм' alt='Написать в телеграмм'>
                     </a>
                 </div>
                 <div class='cart-super-Btn'>
@@ -74,7 +74,7 @@ error_reporting(E_ALL);
                     <div class='header-adres'>
                         <p>г. Рогачёв, ул. Богатырева, </p>
                         <p>завод 'Диапроектор' мини-рынок</p>
-                        <p> 'Восточный' пав 125.</p>
+                        <p> 'Восточный' пав. 125.</p>
                     </div>
                     <div>
                         <img class='header-zn' src='./assets/images/clock.png' alt=''>
@@ -97,8 +97,8 @@ error_reporting(E_ALL);
     <section>
         <h1 id="zag_comment">Отзывы и комментарии.</h1>
         <form class='comment' action='otzkom.php' method='post'>
-            <input class='form-control' type='text' name='fio' placeholder='Укажите ФИО' required pattern='[A-Za-zА-Яа-я .]*'>
-            <input class='form-control' type='text' name='tel' placeholder='Укажите номер телефона(Не публикуется)' required>
+            <input class='form-control' type='text' name='fio' placeholder='Укажите Фамилию Имя Отчество' required pattern='[A-Za-zА-Яа-я .]*'>
+            <input class='form-control' type='text' name='tel' placeholder='Укажите номер телефона (Не публикуется)' required>
             <textarea class='form-control' rows='3' cols='10' name='comment' placeholder='Напишите ваше сообщение сюда...'></textarea>
             <p class="personal-data">
                 <input type="checkbox" id="check1">
