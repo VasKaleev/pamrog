@@ -2,6 +2,6 @@ RewriteEngine On
 RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
 RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
 # 6 clock for image files
-<filesMatch ".(jpg|jpeg|png|gif|ico|css|js)$">
+<filesMatch ".(jpg|jpeg|png|gif|webp|svg|ico|css|js)$">
 Header set Cache-Control "private, no-cache, no-store, proxy-revalidate, no-transform"
 </filesMatch>
